@@ -6,8 +6,8 @@ My personal path to learn machine learning, mostly free resource I've found on t
 2. https://greenteapress.com/wp/ (Hands-on practice) (Free)
 
 # Starter (using TF) 
-https://www.oreilly.com/library/view/ai-and-machine/9781492078180/ (paid)
-https://www.manning.com/books/deep-learning-with-python-second-edition (paid)
+1. https://www.oreilly.com/library/view/ai-and-machine/9781492078180/ (paid)
+2. https://www.manning.com/books/deep-learning-with-python-second-edition (paid)
 
 # Take a Specialization
 1. https://www.coursera.org/professional-certificates/tensorflow-in-practice (paid)
