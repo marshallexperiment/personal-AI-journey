@@ -24,6 +24,7 @@ My personal path to learn machine learning, mostly free resource I've found on t
 3. https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab (free) (Linear Algebra)
 4. https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/ (free) (Linear Algebra)
 5. https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/lectures/math-for-deep-learning/ (free)
+6. https://github.com/fastai/numerical-linear-algebra/blob/master/README.md (free) (Linear Algebra)
 
 # Advance Course and Book
 1. https://www.coursera.org/specializations/deep-learning (paid)
