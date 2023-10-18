@@ -1,30 +1,28 @@
-# personal-AI-journey
-My personal path to learn machine learning, mostly free resource I've found on the internet, with a broad domain and interests. I suggest to learn by order!
+# personal-AI-journey 
+My personal path to learning machine learning is mostly free resources I've found on the internet, with a broad domain and interests. I suggest learning by order!
 
 # Learn Python and math first (Clear)
-1. https://programming-23.mooc.fi/ (python programming offered by university of helsinki) 
+1. https://programming-23.mooc.fi/ (python programming offered by the University of Helsinki) 
 2. https://www.kaggle.com/learn (Python projects and certifications) (free)
-3. https://openstax.org/subjects/math (Please learn Algebra and Trigonometry, CALC I & II for MIT Math for CS, So you could understand underlying concept of 6-042j and proceed to 6-006)
+3. https://openstax.org/subjects/math (Please learn Algebra and Trigonometry, CALC I & II for MIT Math for CS, So you can understand the underlying concept of 6-042j and proceed to 6-006)
 3. https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/pages/syllabus/
 4. https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/pages/calendar/
 
 
-# Starter (using TF) (Under Searching source)
-1. https://www.tensorflow.org/tutorials
+# Starter (using TF) (Clear)
+1. https://developers.google.com/machine-learning/crash-course (Course offered by Google)
+2. https://www.tensorflow.org/tutorials (Tutorial)
+3. http://introtodeeplearning.com/
 
-# Take a Specialization
-1. https://www.coursera.org/professional-certificates/tensorflow-in-practice (paid)
+# Really Nice Huge Learning from all ML/DL 
+1. https://d2l.ai/index.html (You can choose either PyTorch, TensorFlow, or JAX)
+2. https://course.fast.ai/ (All algorithms implemented in PyTorch)
 
-# Practice using TF
-1. https://www.tensorflow.org/tutorials (Free)
-
-# Go deeper with tensorflow
-1. https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/ (paid)
 
 # Math Concepts
 1. https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr (free) (3blue1brown) (Essence of calculus)
-2. https://ocw.mit.edu/courses/18-01-single-variable-calculus-fall-2006/ (free) (Single variable calculus)
-3. https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab (free) (3blue1brown) (Linear Algebra)
+2. https://openstax.org/subjects/math ( CALC I & II for Single variable calculus, CALC III for Multi-Variable Calculus)
+3. https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab (3blue1brown) (Essence of Linear Algebra)
 4. https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/ (free) (Linear Algebra)
 5. https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/lectures/math-for-deep-learning/ (free)
 6. https://github.com/fastai/numerical-linear-algebra/blob/master/README.md (free) (Linear Algebra)
@@ -33,13 +31,9 @@ My personal path to learn machine learning, mostly free resource I've found on t
 1. https://www.coursera.org/specializations/deep-learning (paid)
 2. http://neuralnetworksanddeeplearning.com/index.html (free)
 
-# Implement paper and books!
-1. https://www.tensorflow.org/tutorials (free)
 
-# ML with JS
-1. https://www.tensorflow.org/resources/learn-ml/basics-of-tensorflow-for-js-development (free and paid)
 
-# Uni lectures (all free)
+# Uni lectures (for each specialization)
 1. http://introtodeeplearning.com/2022/index.html 
 2. https://cds.nyu.edu/deep-learning/
 3. https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/lectures/deep-learning/
