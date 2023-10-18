@@ -1,14 +1,16 @@
 # personal-AI-journey
 My personal path to learn machine learning, mostly free resource I've found on the internet, with a broad domain and interests. I suggest to learn by order!
 
-# Learn Python first
-1. https://inventwithpython.com/ (Python fundamental) (Free) 
-2. https://greenteapress.com/wp/ (Hands-on practice) (Free)
-3. https://www.kaggle.com/learn (Python projects and certifications) (free)
+# Learn Python and math first (Clear)
+1. https://programming-23.mooc.fi/ (python programming offered by university of helsinki) 
+2. https://www.kaggle.com/learn (Python projects and certifications) (free)
+3. https://openstax.org/subjects/math (Please learn Algebra and Trigonometry, CALC I & II for MIT Math for CS, So you could understand underlying concept of 6-042j and proceed to 6-006)
+3. https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/pages/syllabus/
+4. https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/pages/calendar/
 
-# Starter (using TF) 
-1. https://www.oreilly.com/library/view/ai-and-machine/9781492078180/ (paid)
-2. https://www.manning.com/books/deep-learning-with-python-second-edition (paid)
+
+# Starter (using TF) (Under Searching source)
+1. https://www.tensorflow.org/tutorials
 
 # Take a Specialization
 1. https://www.coursera.org/professional-certificates/tensorflow-in-practice (paid)
@@ -22,7 +24,7 @@ My personal path to learn machine learning, mostly free resource I've found on t
 # Math Concepts
 1. https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr (free) (3blue1brown) (Essence of calculus)
 2. https://ocw.mit.edu/courses/18-01-single-variable-calculus-fall-2006/ (free) (Single variable calculus)
-3. https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab (free) (Linear Algebra)
+3. https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab (free) (3blue1brown) (Linear Algebra)
 4. https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/ (free) (Linear Algebra)
 5. https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/lectures/math-for-deep-learning/ (free)
 6. https://github.com/fastai/numerical-linear-algebra/blob/master/README.md (free) (Linear Algebra)
