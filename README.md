@@ -26,6 +26,11 @@ My personal path to learning machine learning is mostly free resources I've foun
 1. https://d2l.ai/index.html (You can choose either PyTorch, TensorFlow, or JAX)
 2. https://course.fast.ai/ (All algorithms implemented in PyTorch)
 
+# Free Certification
+1. https://huggingface.co/learn/audio-course/chapter0/introduction (Audio)
+2. https://huggingface.co/learn/nlp-course/chapter0/1?fw=pt (NLP)
+3. https://huggingface.co/learn/deep-rl-course/unit0/introduction (RL)
+
 # Math Concepts
 1. https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr (free) (3blue1brown) (Essence of calculus)
 2. https://openstax.org/subjects/math ( CALC I & II for Single variable calculus, CALC III for Multi-Variable Calculus, and statistics)
@@ -42,22 +47,19 @@ My personal path to learning machine learning is mostly free resources I've foun
 1. http://introtodeeplearning.com/2022/index.html (Deep Learning Introduction)
 2. https://uvadlc.github.io/ (Deep learning 1)
 3. https://uvadl2c.github.io/ (Deep learning 2)
-4. https://cds.nyu.edu/deep-learning/ (Taught by Yan lecun)
+4. https://cds.nyu.edu/deep-learning/ (Taught by Yan Lecun)
 
 # Uni lectures (for each specialization)
 1. https://web.stanford.edu/class/cs224w/ (Machine Learning With Graphs)
-2. http://cs231n.stanford.edu/ (Convolutional Neural Networks)
-3. https://sites.google.com/view/berkeley-cs294-158-sp20/home (Reinforcement Learning)
-
+2. https://sites.google.com/view/berkeley-cs294-158-sp20/home (Reinforcement Learning)
+3. https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/lectures/self-driving-cars/ (Self Driving Cars)
 
 # Computer Vision (Under Review)
 1. https://szeliski.org/Book/ (Computer Vision)
 2. http://16385.courses.cs.cmu.edu/spring2022/lectures (Computer Vision)
-3. https://geometric3d.github.io/ (Multiple View Geometry)
-4. https://learning3d.github.io/ (Machine Learning for 3D Vision ? )
-5. https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/lectures/computer-vision/ (Advance Computer Vision)
+3. http://cs231n.stanford.edu/ (Convolutional Neural Networks)
+4. https://geometric3d.github.io/ (Multiple View Geometry)
+5. https://learning3d.github.io/ (Machine Learning for 3D Vision ? )
+6. https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/lectures/computer-vision/ (Advance Computer Vision)
 
-# Free Certification
-1. https://huggingface.co/learn/audio-course/chapter0/introduction (Audio)
-2. https://huggingface.co/learn/nlp-course/chapter0/1?fw=pt (NLP)
-3. https://huggingface.co/learn/deep-rl-course/unit0/introduction (RL)
+
