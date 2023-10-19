@@ -1,7 +1,7 @@
 # personal-AI-journey 
 My personal path to learning machine learning is mostly free resources I've found on the internet, with a broad domain and interests. I suggest learning by order! (All free courses by my surfing web skills)
 
-# Learn Python and math first (Clear) (Deadline: 30th Nov 2023)
+# Learn Python and math first (Clear) (Deadline: 21th Nov 2023)
 1. https://programming-23.mooc.fi/ (python programming offered by the University of Helsinki) 
 2. https://openstax.org/subjects/math (Please learn Algebra and Trigonometry, CALC I & II for MIT Math for CS, So you can understand the underlying concept of 6-042j and proceed to 6-006)
 3. https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/pages/syllabus/
@@ -10,8 +10,9 @@ My personal path to learning machine learning is mostly free resources I've foun
 
 # Data Science (Deadline: 30th Dec 2023)
 1. https://big-data-platforms-23.mooc.fi/
-2. https://harvard-iacs.github.io/2020-CS109A/ (Bit more advance) (2020 Materials)
-3. https://harvard-iacs.github.io/2020-CS109B/(Even more advancer) (2020 Materials)
+2. https://ipython-books.github.io/
+3. https://harvard-iacs.github.io/2020-CS109A/ (Bit more advance) (2020 Materials)
+4. https://harvard-iacs.github.io/2020-CS109B/(Even more advancer) (2020 Materials)
 
 # Starter (using TF) (Clear) (Under Review)
 1. https://developers.google.com/machine-learning/crash-course (Course offered by Google)
