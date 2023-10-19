@@ -61,5 +61,6 @@ My personal path to learning machine learning is mostly free resources I've foun
 4. https://geometric3d.github.io/ (Multiple View Geometry)
 5. https://learning3d.github.io/ (Machine Learning for 3D Vision ? )
 6. https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/lectures/computer-vision/ (Advance Computer Vision)
+7. https://www.ipb.uni-bonn.de/photo12-2021/ (Photogrammetry I & II Course)
 
 
