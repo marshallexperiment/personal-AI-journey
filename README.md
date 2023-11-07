@@ -1,7 +1,7 @@
 # personal-AI-journey 
 My personal path to learning machine learning is mostly free resources I've found on the internet, with a broad domain and interests. I suggest learning by order! (All free courses by my surfing web skills)
 
-# Learn Python and math first (Clear) (Deadline: 21th Nov 2023)
+# Learn Python and math first (Clear) (Deadline: 30th Nov 2023)
 1. https://programming-23.mooc.fi/ (python programming offered by the University of Helsinki) 
 2. https://openstax.org/subjects/math (Please learn Algebra and Trigonometry, CALC I & II for MIT Math for CS, So you can understand the underlying concept of 6-042j and proceed to 6-006)
 3. https://ggc-discrete-math.github.io/index.html#_course_objectives (Discrete Math)
@@ -9,14 +9,14 @@ My personal path to learning machine learning is mostly free resources I've foun
 5. https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/pages/calendar/
 6. https://www.kaggle.com/learn (Python projects and certifications) (free)
 
-# Starter (using TF) (Deadline: 1st Dec 2023)
+# Starter (using TF) (Deadline: 3rd Dec 2023)
 1. https://developers.google.com/machine-learning/crash-course (Course offered by Google)
 2. https://www.tensorflow.org/tutorials (Tutorial)
 
-# Learn (PyTorch) (Deadline: 2nd Dec 2023)
+# Learn (PyTorch) (Deadline: 5th Dec 2023)
 1. https://pytorch.org/tutorials/ (Tutorials) (free)
 
-# Really Nice Huge Learning from all ML/DL (Deadline: 30 Jan 2024)
+# Really Nice Huge Learning from all ML/DL (Deadline: 30th Jan 2024)
 1. https://d2l.ai/index.html (You can choose either PyTorch, TensorFlow, or JAX)
 2. https://course.fast.ai/ (All algorithms implemented in PyTorch)
 
