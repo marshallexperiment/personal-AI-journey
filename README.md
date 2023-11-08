@@ -51,14 +51,15 @@ My personal path to learning machine learning is mostly free resources I've foun
 5. https://web.stanford.edu/class/cs224w/ (Machine Learning With Graphs)
 6. https://sites.google.com/view/berkeley-cs294-158-sp20/home (Reinforcement Learning) (2020)
 
-# Computer Vision  (Deadline: I still think about it)
+# Computer Vision and Photogrammetry  (Deadline: I still think about it)
 1. http://16385.courses.cs.cmu.edu/spring2022/lectures (Computer Vision)
 2. http://cs231n.stanford.edu/ (Convolutional Neural Networks)
 3. https://geometric3d.github.io/ (Multiple View Geometry)
 4. https://learning3d.github.io/ (Machine Learning for 3D Vision)
 5. https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/lectures/computer-vision/ (Advance Computer Vision)
 6. https://www.ipb.uni-bonn.de/photo12-2021/ (Photogrammetry I & II Course)
-7. https://szeliski.org/Book/ (Computer Vision Book)
+7. https://github.com/PhotogrammetryCourse/PhotogrammetryTasks2023/ (In Russian, it's taught by Agisoft Metashape Developer!)
+8. https://szeliski.org/Book/ (Computer Vision Book)
 
 # Uni lectures (Robotics) (Deadline: I still think about it)
 1. https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/lectures/self-driving-cars/ (Self Driving Cars)
