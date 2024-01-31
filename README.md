@@ -6,8 +6,9 @@ My personal path to learning machine learning is mostly free resources I've foun
 2. https://openstax.org/subjects/math (Please learn Algebra and Trigonometry, CALC I & II for MIT Math for CS, So you can understand the underlying concept of 6-042j and proceed to 6-006)
 3. https://ggc-discrete-math.github.io/index.html#_course_objectives (Discrete Math)
 4. https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/pages/syllabus/
-5. https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/pages/calendar/
-6. https://www.kaggle.com/learn (Python projects and certifications) (free)
+5. https://runestone.academy/ns/books/published/pythonds3/index.html (DSA)
+6. https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/pages/calendar/
+7. https://www.kaggle.com/learn (Python projects and certifications) (free)
 
 # Starter (using TF) (Deadline: 3rd Dec 2023)
 1. https://developers.google.com/machine-learning/crash-course (Course offered by Google)
