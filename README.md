@@ -2,7 +2,7 @@
 My personal path to learning machine learning is mostly free resources I've found on the internet, with a broad domain and interests. I suggest learning by order! (All free courses from my surfing web skills)
 
 # Learn Python and math first (Clear) (Deadline: 30th Nov 2023)
-1. https://programming-23.mooc.fi/ (python programming offered by the University of Helsinki) 
+1. https://programming-24.mooc.fi/ (python programming offered by the University of Helsinki) 
 2. https://openstax.org/subjects/math (Please learn Algebra and Trigonometry, CALC I & II for MIT Math for CS, So you can understand the underlying concept of 6-042j and proceed to 6-006)
 3. https://ggc-discrete-math.github.io/index.html#_course_objectives (Discrete Math)
 4. https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/pages/syllabus/
