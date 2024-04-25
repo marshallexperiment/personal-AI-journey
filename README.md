@@ -21,6 +21,7 @@ My personal path to learning machine learning is mostly free resources I've foun
 # Really Nice Huge Learning from all ML/DL (Deadline: 30th Jan 2024)
 1. https://d2l.ai/index.html (You can choose either PyTorch, TensorFlow, or JAX)
 2. https://course.fast.ai/ (All algorithms implemented in PyTorch)
+3. https://fullstackdeeplearning.com/course/2022/ (For full stack, on of the recommended from a Expert)
 
 # Free Certification (Deadline: 27th February 2024)
 1. https://huggingface.co/learn/audio-course/chapter0/introduction (Audio)
