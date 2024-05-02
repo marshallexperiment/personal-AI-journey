@@ -30,9 +30,6 @@ My personal path to learning machine learning is mostly free resources I've foun
 
 # Data Science (Deadline: 30th March 2024)
 1. https://big-data-platforms-23.mooc.fi/
-2. https://projects.iq.harvard.edu/stat110
-3. https://harvard-iacs.github.io/2020-CS109A/ (Bit more advance) (2020 Materials)
-4. https://harvard-iacs.github.io/2020-CS109B/(Even more advancer) (2020 Materials)
 
 # Math Concepts (Deadline: I still think about it)
 1. https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr (free) (3blue1brown) (Essence of calculus)
