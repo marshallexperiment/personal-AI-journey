@@ -1,7 +1,7 @@
 # personal-AI-journey 
 My personal path to learning machine learning is mostly free resources I've found on the internet, with a broad domain and interests. I suggest learning by order! (All free courses from my surfing web skills)
 
-# Learn Python and math first (Clear) (Deadline: 31th Nov 2024)
+# Learn Python and math first (Clear) (Deadline: 31th Nov 2024) (I got distracted by projects from my professor)
 1. https://freecodecamp.com (python programming) (DONE!)
 2. https://www.py4e.com/ (Python)
 3. https://openstax.org/subjects/math (Please learn Algebra and Trigonometry, CALC I & II for MIT Math for CS, So you can understand the underlying concept of 6-042j and proceed to 6-006)
