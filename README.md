@@ -11,14 +11,14 @@ My personal path to learning machine learning is mostly free resources I've foun
 7. https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/pages/calendar/
 8. https://www.kaggle.com/learn (Python projects and certifications) (free)
 
-# Starter (using TF) (Deadline: 3rd Dec 2023)
+# Starter (using TF) 
 1. https://developers.google.com/machine-learning/crash-course (Course offered by Google)
 2. https://www.tensorflow.org/tutorials (Tutorial)
 
-# Learn (PyTorch) (Deadline: 5th Dec 2023)
+# Learn (PyTorch) 
 1. https://pytorch.org/tutorials/ (Tutorials) (free)
 
-# Really Nice Huge Learning from all ML/DL (Deadline: 30th Jan 2024)
+# Really Nice Huge Learning from all ML/DL 
 1. https://d2l.ai/index.html (You can choose either PyTorch, TensorFlow, or JAX)
 2. https://course.fast.ai/ (All algorithms implemented in PyTorch)
 3. https://fullstackdeeplearning.com/course/2022/ (For full stack, recommendeded by an Expert)
