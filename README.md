@@ -19,6 +19,8 @@ My personal path to learning machine learning is mostly free resources I've foun
 # Learn (PyTorch) 
 1. https://pytorch.org/tutorials/ (Tutorials) (free)
 
+# Adding Tech stack 
+https://ulhpc-tutorials.readthedocs.io/en/latest/ (Parallel Computing course)
 # Really Nice Huge Learning from all ML/DL 
 1. https://d2l.ai/index.html (You can choose either PyTorch, TensorFlow, or JAX)
 2. https://course.fast.ai/ (All algorithms implemented in PyTorch)
