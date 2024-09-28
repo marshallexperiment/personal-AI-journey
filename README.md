@@ -13,8 +13,9 @@ My personal path to learning machine learning is mostly free resources I've foun
 9. https://www.kaggle.com/learn (Python projects and certifications) (free)
 
 # Starter (using TF) 
-1. https://developers.google.com/machine-learning/crash-course (Course offered by Google)
-2. https://www.tensorflow.org/tutorials (Tutorial)
+1. https://mlu-explain.github.io/
+2. https://developers.google.com/machine-learning/crash-course (Course offered by Google)
+3. https://www.tensorflow.org/tutorials (Tutorial)
 
 # Learn (PyTorch) 
 1. https://pytorch.org/tutorials/ (Tutorials) (free)
