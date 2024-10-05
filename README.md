@@ -69,6 +69,7 @@ https://hpc.llnl.gov/documentation/tutorials (Learn OpenMP and PThreads)
 8. https://github.com/PhotogrammetryCourse/ (In Russian, it's taught by Agisoft Metashape Developer!)
 9. https://szeliski.org/Book/ (Computer Vision Book)
 10. https://chahatdeep.github.io/tutorials.html#tutorials
+11. https://ingowald.blog/pinned-pages/ //GPU mesh (I'm not sure)
 
 # Uni lectures (Robotics) (Deadline: I still think about it)
 1. https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/lectures/self-driving-cars/ (Self Driving Cars)
