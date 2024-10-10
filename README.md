@@ -41,9 +41,10 @@ https://hpc.llnl.gov/documentation/tutorials (Learn OpenMP and PThreads)
 2. https://openstax.org/subjects/math ( CALC I & II for Single variable calculus, CALC III for Multi-Variable Calculus, and statistics)
 3. https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab (3blue1brown) (Essence of Linear Algebra)
 4. https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/ (free) (Linear Algebra)
-5. https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/lectures/math-for-deep-learning/ (free)
-6. https://github.com/fastai/numerical-linear-algebra/blob/master/README.md (free) (Linear Algebra)
-7. https://pabloinsente.github.io/intro-linear-algebra
+5. https://www.cs.utexas.edu/~flame/laff/alaff/ALAFF.html
+6. https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/lectures/math-for-deep-learning/ (free)
+7. https://github.com/fastai/numerical-linear-algebra/blob/master/README.md (free) (Linear Algebra)
+8. https://pabloinsente.github.io/intro-linear-algebra
 
 # Advance Course and Book (Optional) (Deadline: I still think about it)
 1. https://www.deeplearningbook.org/ (Really Advance)
