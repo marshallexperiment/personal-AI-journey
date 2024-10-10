@@ -79,6 +79,15 @@ https://hpc.llnl.gov/documentation/tutorials (Learn OpenMP and PThreads)
 4. https://vnav.mit.edu/ (MIT Robotics)
 5. https://github.com/gaoxiang12/slambook-en (SLAM)
 
+# Geomatics (Unordered list)
+- [TuDelft Course](https://3d.bk.tudelft.nl/education/#courses)
+- [Potential MSc topics](https://3d.bk.tudelft.nl/education/msctopics/) as well as [Potential research orientation](https://3d.bk.tudelft.nl/education/researchtopics/)
+-  [Personal Future Ideas](https://github.com/stars/marshallexperiment/lists/for-il)
 
+# Following
+1. [Wei Xiao](https://3d.bk.tudelft.nl/weixiao/)
+2. [Florent Poux](https://learngeodata.eu/)
+# I don't Know if it is Important, But I feel I'm going to need it sooner or later
+1. [Cool repo 1](https://github.com/QiujieDong/Mesh_Segmentation?tab=readme-ov-file#paper-resources)
 
 
