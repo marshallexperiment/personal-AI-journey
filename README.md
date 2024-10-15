@@ -22,8 +22,8 @@ My personal path to learning machine learning is mostly free resources I've foun
 https://hpc.llnl.gov/documentation/tutorials (Learn OpenMP and PThreads)
 
 # Really Nice Huge Learning from all ML/DL 
-1. https://d2l.ai/index.html (You can choose either PyTorch, TensorFlow, or JAX)
-2. https://course.fast.ai/ (All algorithms implemented in PyTorch)
+1. [D2L.AI](https://github.com/marshallexperiment/d2l-id) (Unofficial Indonesian Translation) (STILL ON PROGRESS!!)
+2. [Fast.ai Course](https://course.fast.ai/) (All algorithms implemented in PyTorch)
 3. https://fullstackdeeplearning.com/course/2022/ (For full stack, recommendeded by an Expert)
 
 # Free Certification (Deadline: 27th February 2024)
@@ -31,8 +31,10 @@ https://hpc.llnl.gov/documentation/tutorials (Learn OpenMP and PThreads)
 2. https://huggingface.co/learn/nlp-course/chapter0/1?fw=pt (NLP)
 3. https://huggingface.co/learn/deep-rl-course/unit0/introduction (RL)
 
-# Data Science (Deadline: 30th March 2024)
-1. https://big-data-platforms-23.mooc.fi/
+# Visualization
+1. [Machine Learning University Explain](https://mlu-explain.github.io/)
+2. [Stanford Lecture Notes simplified](https://stanford.edu/~shervine/teaching/cs-229/)
+3. [Brown University Statistics](https://seeing-theory.brown.edu/#firstPage)
 
 # Math Concepts (Deadline: I still think about it)
 1. https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr (free) (3blue1brown) (Essence of calculus)
