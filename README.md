@@ -3,7 +3,7 @@ My personal path to learning machine learning is mostly free resources I've foun
 
 # Learn Python and math first (Clear) (Deadline: 31th Nov 2024) 
 1. https://freecodecamp.com (python programming) (DONE!)
-2. https://www.py4e.com/ (Python)
+2. https://www.py4e.com/ (Python) (I've already took FCC so, I'm DONE!)
 3. https://techcommunity.microsoft.com/t5/ai-machine-learning-blog/the-ai-study-guide-azure-machine-learning-edition/ba-p/4063656?wt.mcid=studentamb335325 (Microsoft)
 4. https://openstax.org/subjects/math (Please learn Algebra and Trigonometry, CALC I & II for MIT Math for CS, So you can understand the underlying concept of 6-042j and proceed to 6-006)
 5. https://ggc-discrete-math.github.io/index.html#_course_objectives (Discrete Math)
