@@ -73,6 +73,10 @@ https://hpc.llnl.gov/documentation/tutorials (Learn OpenMP and PThreads)
 11. https://chahatdeep.github.io/tutorials.html#tutorials
 12. https://ingowald.blog/pinned-pages/ //GPU mesh (I'm not sure)
 
+
+# HPC Course
+1.[Cool Material](https://enccs.se/lessons/)
+
 # Uni lectures (Robotics) (Deadline: I still think about it)
 1. https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/lectures/self-driving-cars/ (Self Driving Cars)
 2. https://www.ipb.uni-bonn.de/msr1-2021/ (Mobile Sensing and Robotics I)
@@ -83,7 +87,7 @@ https://hpc.llnl.gov/documentation/tutorials (Learn OpenMP and PThreads)
 # Geomatics (Unordered list)
 - [TuDelft Course](https://3d.bk.tudelft.nl/education/#courses)
 - [Potential MSc topics](https://3d.bk.tudelft.nl/education/msctopics/) as well as [Potential research orientation](https://3d.bk.tudelft.nl/education/researchtopics/)
--  [Personal Future Ideas](https://github.com/stars/marshallexperiment/lists/for-il)
+- [Personal Future Ideas](https://github.com/stars/marshallexperiment/lists/for-il)
 
 # Following
 1. [Wei Xiao](https://3d.bk.tudelft.nl/weixiao/)
