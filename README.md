@@ -2,21 +2,19 @@
 My personal path to learning machine learning is mostly free resources I've found on the internet, with a broad domain and interests. I suggest learning by order! (All free courses from my surfing web skills)
 
 # Learn Python and math first (Clear) (Deadline: 31th Nov 2024) 
-1. https://freecodecamp.com (python programming) (DONE!)
-2. https://www.py4e.com/ (Python) (I've already took FCC so, I'm DONE!)
-3. https://techcommunity.microsoft.com/t5/ai-machine-learning-blog/the-ai-study-guide-azure-machine-learning-edition/ba-p/4063656?wt.mcid=studentamb335325 (Microsoft)
-4. https://openstax.org/subjects/math (Please learn Algebra and Trigonometry, CALC I & II for MIT Math for CS, So you can understand the underlying concept of 6-042j and proceed to 6-006)
-5. https://ggc-discrete-math.github.io/index.html#_course_objectives (Discrete Math)
-6. https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/pages/calendar/
-7. https://www.kaggle.com/learn (Python projects and certifications) (free)
+1. [python programming](https://freecodecamp.com) (DONE!)
+2. [Python](https://www.py4e.com/)  (I've already took FCC so, I'm DONE!)
+3. [Study ML Microsoft](https://techcommunity.microsoft.com/t5/ai-machine-learning-blog/the-ai-study-guide-azure-machine-learning-edition/ba-p/4063656?wt.mcid=studentamb335325)
+4. [Discrete Math](https://ggc-discrete-math.github.io/index.html#_course_objectives) 
+5. [Python projects and certifications, kaggle](https://www.kaggle.com/learn) (free)
 
 # Starter (using TF) 
-1. https://mlu-explain.github.io/
-2. https://developers.google.com/machine-learning/crash-course (Course offered by Google)
-3. https://www.tensorflow.org/tutorials (Tutorial)
+1. [ML Visualization](https://mlu-explain.github.io/)
+2. [Course offered by Google](https://developers.google.com/machine-learning/crash-course)
+3. [Tutorial](https://www.tensorflow.org/tutorials)
 
 # Learn (PyTorch) 
-1. https://pytorch.org/tutorials/ (Tutorials) (free)
+1. [Tutorials](https://pytorch.org/tutorials/ )
 
 # Really Nice Huge Learning from all ML/DL 
 1. [D2L.AI](https://github.com/marshallexperiment/d2l-id) (Unofficial Indonesian Translation) (STILL ON PROGRESS!!)
@@ -24,9 +22,7 @@ My personal path to learning machine learning is mostly free resources I've foun
 3. [Full stack deep Learning, 2022](https://fullstackdeeplearning.com/course/2022/) (For full stack, recommendeded by an Expert)
 
 # Free Certification (Deadline: 27th February 2024)
-1. https://huggingface.co/learn/audio-course/chapter0/introduction (Audio)
-2. https://huggingface.co/learn/nlp-course/chapter0/1?fw=pt (NLP)
-3. https://huggingface.co/learn/deep-rl-course/unit0/introduction (RL)
+1. [HuggingFace Tutorial series and excersise](https://huggingface.co/learn/audio-course/chapter0/introduction)
 
 # Visualization
 1. [Machine Learning University Explain](https://mlu-explain.github.io/)
