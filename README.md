@@ -72,9 +72,8 @@ My personal path to learning machine learning is mostly free resources I've foun
 
 
 # HPC Course
-1.[HPC](https://enccs.se/lessons/)
-<br>
-2.[Learn OpenMP and PThreads](https://hpc.llnl.gov/documentation/tutorials)
+1. [HPC](https://enccs.se/lessons/)
+2. [Learn OpenMP and PThreads](https://hpc.llnl.gov/documentation/tutorials)
 
 # Uni lectures (Robotics) (Deadline: I still think about it)
 1. [Self Driving Cars](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/lectures/self-driving-cars/)
